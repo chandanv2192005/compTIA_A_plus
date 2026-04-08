@@ -1,0 +1,15 @@
+RAM Slots Overview: Most motherboards feature between two and four memory slots (34:52). These slots are designed to house primary memory modules, which the CPU uses for temporary data storage.
+
+Types of Memory Modules:
+
+DIMM (Dual Inline Memory Module): The most common type of RAM today. It features 168, 184, or 240 pins and uses two independent rows of pins, providing a 64-bit data path.
+
+SIMM (Single Inline Memory Module): An older technology that has been replaced by DIMMs. SIMMs utilized redundant pins on both sides and were limited to a 32-bit data path.
+
+RIMM (Rambus Inline Memory Module): A short-lived breakthrough in memory speed (1999) developed by Rambus Inc. They have 184 pins but are no longer common due to the advancement of DIMM technology.
+
+Advanced Features:
+
+Dual Channel Mode: To boost performance, motherboards can be configured to use a pair of identical DIMMs simultaneously. These slots are often color-coded to indicate the correct configuration for enabling this mode
+
+ECC (Error Correcting Code): Some RAM modules include error-checking capabilities. You can typically identify an ECC module by the presence of nine memory chips instead of the standard eight found on non-ECC modules 
