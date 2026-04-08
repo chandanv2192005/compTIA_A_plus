@@ -1,0 +1,13 @@
+Form Factor: The most common standard for power supplies is ATX .
+
+P1 Connector : The primary power connector for the motherboard, featuring 20 or 24 pins.
+
+P4 Connector : A 4-pin connector specifically designed to supply power to the CPU in modern motherboards.
+
+Molex Connector : A 4-pin connector used for older storage devices, such as hard drives and optical disc drives
+
+Serial ATA (SATA) Connector : A 15-pin connector used to power modern SATA drives.
+
+Berg (Mini) Connector : A small 4-pin connector dedicated to powering floppy drives.
+
+6-Pin Connector : Used primarily to provide extra power to high-performance PCIe video cards.
