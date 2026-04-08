@@ -1,0 +1,15 @@
+ATX (Advanced Technology Extended) : Created by Intel in 1995, this is the de facto standard for modern PCs, measuring 12" by 9.6". 
+
+AT (Advanced Technology) : An older, obsolete standard developed by IBM in the 1980s. These boards were larger (12" by 13.8") and are no longer in development.
+
+Micro ATX : A smaller, square version of the ATX board (9.6" x 9.6"). They are more affordable and designed to fit into smaller cases with fewer features and lower power consumption.
+
+BTX (Balanced Technology Extended) : Designed by Intel to improve upon ATX, specifically focusing on inline airflow and cooling. Components like RAM and bus slots are oriented to align with the airflow path.
+
+ITX : Developed by VIA Technologies for space-saving computers. It includes several compact sizes:
+Mini-ITX 
+Nano-ITX 
+Pico-ITX 
+Mobile-ITX , the smallest standard at 6cm x 6cm.
+
+NLX : Designed by Intel for low-profile, slimline computers. It utilizes a riser card system that allows expansion cards to plug in parallel to the motherboard rather than perpendicularly.
