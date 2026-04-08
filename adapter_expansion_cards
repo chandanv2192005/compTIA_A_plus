@@ -1,0 +1,12 @@
+Video Cards (Graphics Cards): These generate images for your monitor (27:16). They contain key components like a GPU, memory chips, and video ports (e.g., VGA, DVI, HDMI) used for high-definition video and audio transmission.
+
+Sound Cards: These process audio through speakers. They connect via a bus slot and provide audio output for speakers and inputs for microphones, with advanced versions supporting subwoofers and surround sound .
+
+Input/Output Cards: These are used to add connectivity options. Examples include FireWire cards for cameras and printers, and USB cards to increase the number of available ports for peripherals.
+
+Storage Cards: These allow for advanced storage configurations, such as RAID cards for data redundancy or eSATA cards for adding external hard drive ports.
+
+Network Cards:
+NIC (Network Interface Card): Enables a constant wired connection to a network using an Ethernet cable and a unique MAC address .
+Wireless Network Card: Provides network connectivity using an antenna instead of cables, offering flexibility in computer placement .
+PC Cards (Laptop Expansion): Designed for portable systems, these slide into external slots to provide additional capabilities like Wi-Fi or modem access .
