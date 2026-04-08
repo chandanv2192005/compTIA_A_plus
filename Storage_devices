@@ -1,0 +1,21 @@
+Floppy Drives : These are identified as early magnetic storage devices that used small, plastic-enclosed discs. They are described as largely obsolete due to limited capacity and the rise of superior alternatives.
+
+Hard Disk Drives (HDD) : These are defined as non-volatile secondary memory. They use spinning discs and an actuator arm to read/write data. The video categorizes them into three primary standards:
+
+PATA (Parallel ATA/EIDE) : An older standard using a 40-pin ribbon cable, capable of supporting two devices per cable (master and slave).
+
+SATA (Serial ATA) : The modern, faster standard that transfers data bit-by-bit (serially). It features smaller cables and supports hot-swappable drives.
+
+Solid State Drives (SSD) : The latest standard, characterized by having no moving parts. Data is stored on memory chips, allowing for significantly faster data transfer rates.
+
+Optical Media : The video examines various formats:
+
+CD-ROM/CD-RW : Standard for storing ~700MB of data; CD-RW allows for multiple rewrites.
+
+DVD-ROM/DVD-RW : These replaced CDs due to higher capacity (~4.7GB, or 8.5GB for dual-layer discs).
+
+Blu-ray : The high-capacity successor to DVD, using a shorter laser wavelength to store up to 25GB of data.
+
+Flash & Removable Storage : Includes Tape Drives for sequential backups, SD Cards for portable flash storage (digital cameras), and USB Thumb Drives for convenient, portable data access.
+
+
