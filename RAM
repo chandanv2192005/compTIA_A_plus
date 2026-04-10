@@ -1,0 +1,17 @@
+Functionality: Data is loaded from the hard drive into RAM so the CPU can access it efficiently. If RAM capacity is too low, the system must constantly access the slower hard drive, which significantly slows down computer performance.
+
+Volatility: RAM is volatile, meaning it requires constant electrical power to hold data; if the power is turned off, the stored information is erased.
+
+Memory Modules: RAM is installed on the motherboard in modules known as DIMMs (Dual Inline Memory Modules.
+                                                                               
+Types of RAM:
+                                                                               
+DRAM (Dynamic RAM): Contains capacitors and requires frequent refreshing.
+                                                                               
+SRAM (Static RAM): Uses transistors, does not require refreshing, is much faster, and is used for CPU cache.
+                                                                               
+SDRAM (Synchronous DRAM): Operates in sync with the system clock, making it faster than standard DRAM.
+                                                                               
+DDR (Double Data Rate): An evolution of SDRAM that transfers data on both the rising and falling edges of the clock signal, effectively doubling the data rate
+                                                                               
+Dual Channel Mode: A technology that requires a pair of identical DIMMs, allowing the memory controller to communicate with both simultaneously for increased speed.
