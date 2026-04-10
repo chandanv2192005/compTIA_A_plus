@@ -1,0 +1,9 @@
+Cooling Methods:
+
+Active Cooling (Case Fans): A standard setup includes an intake fan (front) to draw in cool air and an exhaust fan (back) to push warm air out, creating a constant circulation of air throughout the case.
+  
+Passive Cooling (Heat Sinks): Since the CPU generates intense heat very quickly, it requires a heat sink—an aluminum block with fins—to increase the surface area for air contact and dissipate heat.
+  
+Thermal Compound: Essential for applying a heat sink, this substance fills in microscopic air gaps between the CPU and the heat sink to ensure maximum surface contact and heat transfer.
+
+Water Cooling: This modern approach uses a pump, radiator, and water to circulate liquid over the CPU. It is significantly more efficient and quieter than traditional air cooling, though it is more expensive to implement.
