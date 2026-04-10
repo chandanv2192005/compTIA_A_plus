@@ -1,0 +1,29 @@
+CPU (Central Processing Unit)
+
+Role: The brain of the computer, responsible for executing instructions and logical calculations .
+  
+Performance: Speed is measured in megahertz (MHz) or gigahertz (GHz). Modern processors often feature multi-core designs (dual-core, quad-core), which significantly improve multitasking and overall performance .
+
+Architecture: CPUs are available in 32-bit and 64-bit versions, with 64-bit processors capable of addressing vastly more memory.
+  
+CPU Sockets
+  
+Purpose: The physical interface where the CPU is installed on the motherboard, ensuring electrical contact.
+  
+Types of Packages:
+
+PGA (Pin Grid Array): A traditional design using holes and a locking lever.
+  
+Slot Package: An older design where the CPU was housed in a cartridge, similar to an expansion card
+
+LGA (Land Grid Array): The modern standard where the motherboard features pins and the CPU uses flat pads.
+  
+ZIF (Zero Insertion Force): Most modern sockets are ZIF, allowing for easy CPU installation without applying pressure.
+  
+Chipset
+  
+Function: Acts as the centralized traffic controller for data flowing between the CPU, memory, and peripherals.
+  
+North Bridge: Located near the CPU; it handles high-speed communication between the CPU, RAM, and high-performance bus slots like PCIe or AGP.
+  
+South Bridge: Located at the bottom of the motherboard; it manages slower components such as USB ports, SATA/IDE connectors, and the PCI bus.
