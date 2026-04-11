@@ -1,0 +1,19 @@
+The Parallel ATA (PATA) interface, also referred to as EIDE, is an older standard used to connect storage devices like hard drives, CD-ROMs, and DVD-ROMs to a computer.
+
+Key features and limitations include:
+
+Cabling: It utilizes a 40-pin ribbon cable that can support two devices per cable.
+
+Configuration: Drives are identified by their position on the cable using jumper settings on the back of the device:
+
+Master: The drive connected to the end of the cable.
+
+Slave: The drive connected to the middle connector.
+
+Cable Select: Automatically configures the drive based on its position on the ribbon cable.
+
+Capacity: Older motherboards typically featured two PATA interfaces, allowing for a total of four connected drives.
+
+Performance: The final standard, ATA-133, provided data transfer speeds up to 133 MB/s.
+
+Note: PATA is considered a legacy technology and has been largely replaced by the faster SATA interface, with many modern motherboards offering little to no PATA support
