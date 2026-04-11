@@ -1,0 +1,25 @@
+Twisted Pair Cabling:
+
+RJ11 Connectors: Used primarily for telephone equipment and modems.
+
+RJ45 Connectors: The most common standard for Ethernet-based local area networks (LANs), using 8 wires for connectivity.
+
+Unshielded Twisted Pair (UTP): The standard cable used in LANs, consisting of four twisted pairs designed to reduce electromagnetic interference.
+
+Shielded Twisted Pair (STP): Similar to UTP but includes a foil shield to provide extra protection against signal leakage and interference
+
+Wiring Standards: Cables follow T568A or T568B standards, which dictate the specific order of wires within the RJ45 connector.
+
+Plenum Rating: Cables run through open air circulation spaces (like drop ceilings) must be plenum-rated to be fire-resistant and produce non-toxic fumes.
+
+Coaxial Cabling:
+
+Connectors: Includes BNC (bayonet-style for video/audio) and F-type (threaded, used for cable modems) .
+
+RG6 vs RG59: RG6 is designed for long distances (cable TV/internet), while RG59 is suited for shorter runs and high-definition video .
+
+Fiber Optic Cabling:
+
+Modes: Single-mode allows light to enter at a single angle for great distances, while multi-mode uses multiple beams for shorter distances
+
+Connectors: Includes ST (straight tip, bayonet lock), LC (local connector, similar to RJ45 size), and SC (standard connector, push-pull)
