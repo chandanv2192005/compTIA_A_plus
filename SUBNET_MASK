@@ -1,7 +1,16 @@
 # Network Classes
 
-## Classful Address
+## Class A
+- **Range:** 1.0.0.0 to 126.0.0.0
+- **Subnet Mask:** 255.0.0.0
+![Class A Subnet Mask](https://example.com/class-a.png)
 
-![Classful Address](https://media.geeksforgeeks.org/wp-content/uploads/20251015104624497420/classful_aaddress.webp)
+## Class B
+- **Range:** 128.0.0.0 to 191.255.0.0
+- **Subnet Mask:** 255.255.0.0
+![Class B Subnet Mask](https://example.com/class-b.png)
 
-The classful addressing system divides the IP address space into five classes: A, B, C, D, and E. Each class serves a different purpose and has its own range of addresses. The classes are defined by the leading bits of the IP address and can accommodate different types of networks and hosts.
+## Class C
+- **Range:** 192.0.0.0 to 223.255.255.0
+- **Subnet Mask:** 255.255.255.0
+![Class C Subnet Mask](https://example.com/class-c.png)
