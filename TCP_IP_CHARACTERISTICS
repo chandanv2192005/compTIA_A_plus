@@ -1,0 +1,37 @@
+IP Addressing 
+
+IP Version 4 (IPv4): A 32-bit numeric address (0 to 255 per octet) capable of producing over 4 billion unique addresses. It uses subnet masks to distinguish between the network and host portions of an address.
+
+IP Version 6 (IPv6): The next-generation 128-bit hexadecimal addressing system, designed to provide a nearly limitless pool of addresses.
+
+IP Classes: Addresses are categorized into classes (A, B, and C), each with default subnet masks and specific ranges for different organizational sizes.
+
+APIPA: (Automatic Private IP Addressing) Allows a computer to assign its own IP address (in the 169.254.x.x network) when a DHCP server is unavailable 
+
+Core Protocols: TCP vs. UDP 
+
+TCP (Transmission Control Protocol): A connection-oriented protocol that guarantees delivery. It uses a three-way handshake (SYN, ACK, SYN-ACK) to establish a session before transmitting data. If a packet is lost, TCP automatically resends it.
+
+UDP (User Datagram Protocol): A connectionless protocol often called the "fire&forget" protocol. It does not establish a session or guarantee delivery, which makes it significantly faster than TCP due to lower overhead.
+
+Common Services & Protocols 
+
+DNS (Domain Name Service): Acts as a "phone book" for the internet, resolving human-readable domain names (e.g., yahoo.com) into numerical IP addresses
+
+FTP (File Transfer Protocol): A TCP-based protocol used for uploading and downloading files. Secure FTP adds encryption (SSH) to protect sensitive data during transfer
+
+DHCP (Dynamic Host Configuration Protocol): Automatically assigns dynamic IP addresses to devices on a network
+
+NAT (Network Address Translation): Used by routers to translate internal private IP addresses to a single public IP address for internet communication 
+
+LDAP (Lightweight Directory Access Protocol): Used for accessing and modifying directory services 
+
+SMB (Server Message Block): Enables Windows-based computers to access shared files on network servers 
+
+SNMP (Simple Network Management Protocol): Used to collect data from network devices like routers and servers for management purposes
+
+SSH (Secure Shell): A secure, encrypted alternative to Telnet that protects login and password data during remote access
+
+Ports
+
+Ports are logical connections ranging from 0 to 65,535. The video emphasizes that for the exam, one must memorize well-known ports (0-1023), which are associated with common daily applications like web traffic and email.
