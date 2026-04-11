@@ -1,0 +1,13 @@
+Bus slots, also known as expansion slots, are critical components located on the motherboard that allow users to expand the functionality of their computer by adding adapter cards .
+
+Here is a summary of the bus types discussed in the video:
+
+ISA (Industry Standard Architecture): The first bus type, which used an 8-bit data path and operated at 4.7 MHz. These are now obsolete and not found on modern systems
+
+PCI (Peripheral Component Interconnect): A standard bus introduced in 1993, offering significantly higher speeds than ISA with 32-bit or 64-bit data paths, ranging from 133 to 533 MB/s .
+
+AGP (Accelerated Graphics Port): Specifically designed to accelerate 3D computer graphics by providing a dedicated pathway to the processor, exclusively for video cards.
+
+PCI Express (PCIe): The current standard, which is much faster than its predecessors with speeds reaching up to 4 GB/s. Unlike the parallel design of standard PCI, PCIe uses serial data transfer in packets. It comes in various lane sizes (x1, x4, x8, and x16), with the x16 slot being the modern replacement for AGP for video cards.
+
+AMR (Audio Modem Riser): An older, specialized slot designed to allow manufacturers to integrate audio and modem functions on the motherboard more easily.
