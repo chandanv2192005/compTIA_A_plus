@@ -1,0 +1,31 @@
+**Core Protocols: TCP vs. UDP
+
+TCP (Transmission Control Protocol): A connection-oriented protocol that ensures reliable data delivery. It establishes a session using a three-way handshake (SYN, SYN-ACK, ACK) and will resend any packets that go astray.
+
+UDP (User Datagram Protocol): A connectionless protocol often called "fire and forget." It does not guarantee delivery or establish a session, making it faster than TCP due to reduced overhead.
+
+**Essential Network Protocols 
+
+DNS (Domain Name Service): Acts as a "phone book" for the internet, resolving human-readable domain names (like yahoo.com) into numerical IP addresses
+
+FTP (File Transfer Protocol): A TCP-based protocol for uploading and downloading files. Secure FTP uses encryption to protect sensitive data during transfer 
+
+DHCP (Dynamic Host Configuration Protocol): Automatically assigns dynamic IP addresses to devices on a network 
+
+NAT (Network Address Translation): A service, typically found in routers, that translates internal private IP addresses to a public IP address for internet communication 
+
+LDAP (Lightweight Directory Access Protocol): Used to access and modify directory services 
+
+SMB (Server Message Block): Enables Windows-based computers to access shared files on network servers 
+
+SNMP (Simple Network Management Protocol): Used to collect data from various network devices for management purposes 
+
+SSH (Secure Shell): A secure, encrypted alternative to Telnet that protects login credentials during remote access
+
+**IP Addressing 
+
+IPv4: The current standard using 32-bit numeric addresses (0-255 per octet), utilizing subnet masks to define the network and host portions.
+
+IPv6: A 128-bit hexadecimal addressing system designed to provide an almost limitless supply of unique IP addresses.
+
+APIPA: A fallback feature (169.254.x.x) where a computer assigns itself an IP address if it cannot reach a DHCP server 
