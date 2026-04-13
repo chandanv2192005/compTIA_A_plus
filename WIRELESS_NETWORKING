@@ -1,0 +1,17 @@
+Router Configuration: To set up a SoHo (Small Office/Home Office) router, users typically access a built-in web configuration page via a browser using the router's IP address. Important settings include the SSID (Service Set Identifier), which is the broadcasted name of the network, and channel selection to avoid interference from nearby networks.
+
+Wireless Security Protocols:
+
+WEP (Wired Equivalent Privacy): An older, insecure protocol that is easily compromised and generally avoided today.
+
+WPA (Wi-Fi Protected Access): An improvement over WEP that introduced TKIP (Temporal Key Integrity Protocol) for dynamic key changing and EAP (Extensible Authentication Protocol) for user verification.
+
+WPA2: Currently a standard security measure, it provides superior security by using CCMP for robust encryption.
+
+WPS (Wi-Fi Protected Setup): Designed to simplify the connection process for users with less technical knowledge.
+
+Advanced Controls:
+
+MAC Filtering: Allows administrators to permit or prevent access to the network based on a device's unique physical MAC address.
+
+DMZ (Demilitarized Zone): A configuration that exposes a designated computer on the network directly to the internet by forwarding all ports. This is primarily used for testing purposes as it bypasses standard firewall protections.
