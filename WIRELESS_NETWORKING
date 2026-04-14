@@ -6,7 +6,7 @@ WEP (Wired Equivalent Privacy): An older, insecure protocol that is easily compr
 
 WPA (Wi-Fi Protected Access): An improvement over WEP that introduced TKIP (Temporal Key Integrity Protocol) for dynamic key changing and EAP (Extensible Authentication Protocol) for user verification.
 
-WPA2: Currently a standard security measure, it provides superior security by using CCMP for robust encryption.
+WPA2: Currently a standard security measure, it provides superior security by using CCMP for robust encryption. 
 
 WPS (Wi-Fi Protected Setup): Designed to simplify the connection process for users with less technical knowledge.
 
