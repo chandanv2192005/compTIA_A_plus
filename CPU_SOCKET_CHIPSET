@@ -8,7 +8,7 @@ Architecture: CPUs are available in 32-bit and 64-bit versions, with 64-bit proc
    
 CPU Sockets
    
-Purpose: The physical interface where the CPU is installed on the motherboard, ensuring electrical contact.
+Purpose: The physical interface where the CPU is installed on the motherboard, ensuring electrical contact.     
   
 Types of Packages:
 
