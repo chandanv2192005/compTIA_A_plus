@@ -5,7 +5,7 @@ Role: The brain of the computer, responsible for executing instructions and logi
 Performance: Speed is measured in megahertz (MHz) or gigahertz (GHz). Modern processors often feature multi-core designs (dual-core, quad-core), which significantly improve multitasking and overall performance .
 
 Architecture: CPUs are available in 32-bit and 64-bit versions, with 64-bit processors capable of addressing vastly more memory.
-  
+   
 CPU Sockets
    
 Purpose: The physical interface where the CPU is installed on the motherboard, ensuring electrical contact.
