@@ -6,7 +6,7 @@ Cabling: It utilizes a 40-pin ribbon cable that can support two devices per cabl
 
 Configuration: Drives are identified by their position on the cable using jumper settings on the back of the device:
 
-Master: The drive connected to the end of the cable.
+Master: The drive connected to the end of the cable 
 
 Slave: The drive connected to the middle connector.
 
