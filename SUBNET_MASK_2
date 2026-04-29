@@ -6,7 +6,7 @@ Last Updated : 2 Jan, 2026
 A subnet mask is a 32-bit number used with an IP address to divide it into two parts:
 
 the network ID, and
-the host ID.
+the host ID. 
 In a subnet mask:
 
 Binary 1s represent the network portion of the IP address.
