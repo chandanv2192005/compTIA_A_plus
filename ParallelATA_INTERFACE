@@ -1,6 +1,6 @@
 The Parallel ATA (PATA) interface, also referred to as EIDE, is an older standard used to connect storage devices like hard drives, CD-ROMs, and DVD-ROMs to a computer.
 
-Key features and limitations include:
+Key features and limitations include: 
 
 Cabling: It utilizes a 40-pin ribbon cable that can support two devices per cable.
 
