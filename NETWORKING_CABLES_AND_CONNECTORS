@@ -6,7 +6,7 @@ RJ45 Connectors: The most common standard for Ethernet-based local area networks
 
 Unshielded Twisted Pair (UTP): The standard cable used in LANs, consisting of four twisted pairs designed to reduce electromagnetic interference.
 
-Shielded Twisted Pair (STP): Similar to UTP but includes a foil shield to provide extra protection against signal leakage and interference
+Shielded Twisted Pair (STP): Similar to UTP but includes a foil shield to provide extra protection against signal leakage and interference 
 
 Wiring Standards: Cables follow T568A or T568B standards, which dictate the specific order of wires within the RJ45 connector.
 
