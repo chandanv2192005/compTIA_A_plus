@@ -19,7 +19,7 @@ Slot Package: An older design where the CPU was housed in a cartridge, similar t
 LGA (Land Grid Array): The modern standard where the motherboard features pins and the CPU uses flat pads.
   
 ZIF (Zero Insertion Force): Most modern sockets are ZIF, allowing for easy CPU installation without applying pressure.
-  
+   
 Chipset
   
 Function: Acts as the centralized traffic controller for data flowing between the CPU, memory, and peripherals.
