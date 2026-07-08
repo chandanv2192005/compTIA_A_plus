@@ -20,7 +20,7 @@ LGA (Land Grid Array): The modern standard where the motherboard features pins a
   
 ZIF (Zero Insertion Force): Most modern sockets are ZIF, allowing for easy CPU installation without applying pressure.
    
-Chipset
+Chipset 
   
 Function: Acts as the centralized traffic controller for data flowing between the CPU, memory, and peripherals.
   
