@@ -11,3 +11,4 @@ AGP (Accelerated Graphics Port): Specifically designed to accelerate 3D computer
 PCI Express (PCIe): The current standard, which is much faster than its predecessors with speeds reaching up to 4 GB/s. Unlike the parallel design of standard PCI, PCIe uses serial data transfer in packets. It comes in various lane sizes (x1, x4, x8, and x16), with the x16 slot being the modern replacement for AGP for video cards.
 
 AMR (Audio Modem Riser): An older, specialized slot designed to allow manufacturers to integrate audio and modem functions on the motherboard more easily.
+ 
