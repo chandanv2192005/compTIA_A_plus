@@ -6,7 +6,7 @@ UDP (User Datagram Protocol): A connectionless protocol often called "fire and f
 
 **Essential Network Protocols 
 
-DNS (Domain Name Service): Acts as a "phone book" for the internet, resolving human-readable domain names (like yahoo.com) into numerical IP addresses
+DNS (Domain Name Service): Acts as a "phone book" for the internet, resolving human-readable domain names (like yahoo.com) into numerical IP addresses 
 
 FTP (File Transfer Protocol): A TCP-based protocol for uploading and downloading files. Secure FTP uses encryption to protect sensitive data during transfer 
 
